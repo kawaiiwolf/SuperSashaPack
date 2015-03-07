@@ -1,0 +1,92 @@
+tile.kawaiicrops.bean.name=Bean Crop
+item.kawaiicrops.bean.seed.name=Raw Beans
+
+tile.kawaiicrops.bellpepper.name=Bell Pepper Crop
+item.kawaiicrops.bellpepper.seed.name=Bell Pepper Seed
+item.kawaiicrops.bellpeppergreen.name=Green Bell Pepper
+item.kawaiicrops.bellpepperorange.name=Orange Bell Pepper
+item.kawaiicrops.bellpepperred.name=Red Bell Pepper
+item.kawaiicrops.bellpepperyellow.name=Yellow Bell Pepper
+
+tile.kawaiicrops.broccoli.name=Broccoli Crop
+item.kawaiicrops.broccoli.crop.name=Raw Broccoli
+item.kawaiicrops.broccoli.seed.name=Broccoli Seeds
+
+tile.kawaiicrops.corn.name=Corn Crop
+item.kawaiicrops.corn.crop.name=Ear of Corn
+item.kawaiicrops.corn.seed.name=Raw Corn Kernel
+
+tile.kawaiicrops.cranberry.name=Corn Plant
+item.kawaiicrops.cranberry.crop.name=Cranberries
+item.kawaiicrops.cranberry.seed.name=Cranberry Seeds
+
+tile.kawaiicrops.cucumber.name=Cucumber Crop
+item.kawaiicrops.cucumber.crop.name=Cucumber
+item.kawaiicrops.cucumber.seed.name=Cucumber Seed
+
+tile.kawaiicrops.eggplant.name=Eggplant Crop
+item.kawaiicrops.eggplant.crop.name=Eggplant
+item.kawaiicrops.eggplant.seed.name=Eggplant Seed
+
+tile.kawaiicrops.garlic.name=Garlic Crop
+item.kawaiicrops.garlic.crop.name=Head of Garlic
+item.kawaiicrops.garlic.seed.name=Garlic Seed
+item.kawaiicrops.garlicclove.name=Clove of Garlic
+
+tile.kawaiicrops.ginger.name=Ginger Crop
+item.kawaiicrops.ginger.crop.name=Ginger Root
+item.kawaiicrops.ginger.seed.name=Ginger Seed
+
+tile.kawaiicrops.hotpepper.name=Hot Pepper Crop
+item.kawaiicrops.hotpepper.crop.name=Hot Pepper
+item.kawaiicrops.hotpepper.seed.name=Hot Pepper Seed
+
+tile.kawaiicrops.lettuce.name=Lettuce Crop
+item.kawaiicrops.lettuce.crop.name=Head of Lettuce
+item.kawaiicrops.lettuce.seed.name=Lettuce Seed
+
+tile.kawaiicrops.mustard.name=Mustard Plant
+item.kawaiicrops.mustard.seed.name=Mustard Seed
+
+tile.kawaiicrops.onion.name=Onion Crop
+item.kawaiicrops.onion.crop.name=Onion
+item.kawaiicrops.onion.seed.name=Onion Seed
+
+tile.kawaiicrops.peanut.name=Peanut Crop
+item.kawaiicrops.peanut.seed.name=Peanut
+
+tile.kawaiicrops.peas.name=Pea crop
+item.kawaiicrops.peas.seed.name=Pea Pod
+
+tile.kawaiicrops.pineapple.name=Pineapple Crop
+item.kawaiicrops.pineapple.crop.name=Pineapple
+item.kawaiicrops.pineapple.seed.name=Pineapple Seed
+
+tile.kawaiicrops.rice.name=Rice Crop
+item.kawaiicrops.rice.seed.name=Brown Rice
+
+tile.kawaiicrops.soybean.name=Soybean Crop
+item.kawaiicrops.soybean.seed.name=Soy Bean
+
+tile.kawaiicrops.spinach.name=Spinach Crop
+item.kawaiicrops.spinach.crop.name=Spinach Leaves
+item.kawaiicrops.spinach.seed.name=Spinach Seed
+ 
+tile.kawaiicrops.sweetpotato.name=Sweet Potato Crop
+item.kawaiicrops.sweetpotato.seed.name=Sweet Potato
+
+tile.kawaiicrops.tea.name=Tea Crop
+item.kawaiicrops.tea.crop.name=Tea Leaves
+item.kawaiicrops.tea.seed.name=Tea Crop Seed
+
+tile.kawaiicrops.tomato.name=Tomato Crop
+item.kawaiicrops.tomato.crop.name=Tomato
+item.kawaiicrops.tomato.seed.name=Tomato Seed
+
+tile.kawaiicrops.whitemushroom.name=White Mushroom Patch
+item.kawaiicrops.whitemushroom.crop.name=White Mushroom
+item.kawaiicrops.whitemushroom.seed.name=White Mushroom Spores
+
+
+
+
