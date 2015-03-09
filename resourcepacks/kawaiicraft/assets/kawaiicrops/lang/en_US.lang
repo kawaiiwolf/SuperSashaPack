@@ -87,6 +87,69 @@ tile.kawaiicrops.whitemushroom.name=White Mushroom Patch
 item.kawaiicrops.whitemushroom.crop.name=White Mushroom
 item.kawaiicrops.whitemushroom.seed.name=White Mushroom Spores
 
+item.kawaiicrops.milkglass.name=Glass of Milk
+item.kawaiicrops.skimglass.name=Glass of Skim Milk
+item.kawaiicrops.emptybarrel.name=Empty Barrel
+item.kawaiicrops.emptycrate.name=Empty Crate
+item.kawaiicrops.creambarrel.name=Barrel of Separated Milk
+item.kawaiicrops.sourcreambarrel.name=Barrel of Sour Milk
+item.kawaiicrops.creambucket.name=Bucket of Cream
+item.kawaiicrops.skimbucket.name=Bucket of Skim Milk
+item.kawaiicrops.sourcreambucket.name=Bucket of Sour Cream
+item.kawaiicrops.soap.name=Bar of Soap
+item.kawaiicrops.lyebucket.name=Bucket of Lye Water
+item.kawaiicrops.porcelain.name=Raw Porcelain Clay
+item.kawaiicrops.cup.name=Porcelain Cup
+item.kawaiicrops.cupunfired.name=Unfired Porcelain Cup
+item.kawaiicrops.plate.name=Porcelain Plate
+item.kawaiicrops.plateunfired.name=Unfired Porcelain Plate
+item.kawaiicrops.bowl.name=Porcelain Bowl
+item.kawaiicrops.bowlunfired.name=Unfired Porcelain Bowl
+item.kawaiicrops.creambottle.name=Bottle of Cream
+item.kawaiicrops.sourcreambottle.name=Bottle of Sour Cream
+tile.kawaiicrops.milkbarrel.barrel.name=Barrel of Milk
+item.kawaiicrops.renderedfat.name=Rendered Fat
+item.kawaiicrops.animalfat.name=Animal Fat
+item.kawaiicrops.chickenbones.name=Chicken Bones
+item.kawaiicrops.beefbones.name=Beef Bones
+item.kawaiicrops.vealbones.name=Veal Bones
+item.kawaiicrops.porkbones.name=Pork Bones
+item.kawaiicrops.lambbones.name=Lamb Bones
+item.kawaiicrops.rennet.name=Rennet
+item.kawaiicrops.organmeats.name=Organ Meats
+item.kawaiicrops.muttonraw.name=Raw Mutton
+item.kawaiicrops.chocolatemilkglass.name=Glass of Chocolate Milk
+item.kawaiicrops.glasscup.name=Clean Glass
+item.kawaiicrops.dirtyglasscup.name=Dirty Glass
+item.kawaiicrops.cheesecloth.name=Cheese Cloth
+item.kawaiicrops.bacteria.name=Probiotic Bacteria Culture
+item.kawaiicrops.sourcurds.name=Sour Milk Curds
+item.kawaiicrops.milkcurds.name=Milk Curds
+item.kawaiicrops.culturedcurds.name=Cultured Milk Curds
+item.kawaiicrops.culturedsourcurds.name=Sour Cultured Milk Curds
+item.kawaiicrops.culturedwashedcurds.name=Washed Culutured Milk Curds
+item.kawaiicrops.creamcheese.name=Cream Cheese
+item.kawaiicrops.cottagecheese.name=Cottage Cheese
+item.kawaiicrops.strainer.name=Wire Mesh Strainer
+item.kawaiicrops.applemush.name=Mushed Apples
+item.kawaiicrops.applesauce.name=Applesauce
+item.kawaiicrops.applejuice.name=Glass of Apple Juice
+item.kawaiicrops.applecider.name=Glass of Apple Cider
+item.kawaiicrops.applevinegar.name=Bottle of Apple Cider Vinegar
+item.kawaiicrops.bottle.name=Glass Bottle
+item.kawaiicrops.vinegarmother.name=Vinegar Mother Mold
+item.kawaiicrops.applejuicebucket.name=Bucket of Apple Juice
+item.kawaiicrops.applecidercompletebarrel.name=Barrel of Fermented Apples
+item.kawaiicrops.applevinegarcompletebarrel.name=Barrel of Apple Vinegar
+tile.kawaiicrops.applebarrel.barrel.name=Apple Cider Barrel
+tile.kawaiicrops.applevinegarbarrel.barrel.name=Apple Cider Vinegar Barrel
+item.kawaiicrops.wheatflour.name=Wheat Flour
+item.kawaiicrops.riceflour.name=Rice Flour
+
+
+
+
+
 
 
 
