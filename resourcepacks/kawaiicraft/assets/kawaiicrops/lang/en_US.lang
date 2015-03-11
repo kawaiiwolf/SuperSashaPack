@@ -121,15 +121,6 @@ item.kawaiicrops.muttonraw.name=Raw Mutton
 item.kawaiicrops.chocolatemilkglass.name=Glass of Chocolate Milk
 item.kawaiicrops.glasscup.name=Clean Glass
 item.kawaiicrops.dirtyglasscup.name=Dirty Glass
-item.kawaiicrops.cheesecloth.name=Cheese Cloth
-item.kawaiicrops.bacteria.name=Probiotic Bacteria Culture
-item.kawaiicrops.sourcurds.name=Sour Milk Curds
-item.kawaiicrops.milkcurds.name=Milk Curds
-item.kawaiicrops.culturedcurds.name=Cultured Milk Curds
-item.kawaiicrops.culturedsourcurds.name=Sour Cultured Milk Curds
-item.kawaiicrops.culturedwashedcurds.name=Washed Culutured Milk Curds
-item.kawaiicrops.creamcheese.name=Cream Cheese
-item.kawaiicrops.cottagecheese.name=Cottage Cheese
 item.kawaiicrops.strainer.name=Wire Mesh Strainer
 item.kawaiicrops.applemush.name=Mushed Apples
 item.kawaiicrops.applesauce.name=Applesauce
@@ -145,9 +136,37 @@ tile.kawaiicrops.applebarrel.barrel.name=Apple Cider Barrel
 tile.kawaiicrops.applevinegarbarrel.barrel.name=Apple Cider Vinegar Barrel
 item.kawaiicrops.wheatflour.name=Wheat Flour
 item.kawaiicrops.riceflour.name=Rice Flour
+item.kawaiicrops.salt.name=Salt
+item.kawaiicrops.brinebucket.name=Bucket of Brine
+item.kawaiicrops.cheesecloth.name=Cheese Cloth
+item.kawaiicrops.bacteria.name=Probiotic Bacteria Culture
+item.kawaiicrops.sourcurds.name=Sour Milk Curds
+item.kawaiicrops.milkcurds.name=Milk Curds
+item.kawaiicrops.culturedcurds.name=Cultured Milk Curds
+item.kawaiicrops.culturedsourcurds.name=Sour Cultured Milk Curds
+item.kawaiicrops.culturedwashedcurds.name=Washed Culutured Milk Curds
+item.kawaiicrops.creamcheese.name=Cream Cheese
+item.kawaiicrops.cottagecheese.name=Cottage Cheese
+item.kawaiicrops.cheddaredculturedcurds.name=Cheddared Cultured Milk Curds
+item.kawaiicrops.creamycurds.name=Creamy Milk Curds
+item.kawaiicrops.cheddaredmilkcurds.name=Cheddared Milk Curds
+item.kawaiicrops.wheycurds.name=Whey Curds
+item.kawaiicrops.skimcurds.name=Skim Milk Curds
 
-
-
+tile.kawaiicrops.yeastcrate.barrel.name=Probiotic Bacteria Culture
+tile.kawaiicrops.yeaststartercrate.barrel.name=Probiotic Bacteria Starter Culture
+tile.kawaiicrops.goudacrate.barrel.name=Aging Gouda Cheese
+tile.kawaiicrops.provolonecrate.barrel.name=Aging Provolone Cheese
+tile.kawaiicrops.mozerellacrate.barrel.name=Aging Mozerella Cheese
+tile.kawaiicrops.colbycrate.barrel.name=Aging Colby Cheese
+tile.kawaiicrops.parmeseanbarrel.barrel.name=Aging Parmesean Cheese
+tile.kawaiicrops.fontinabarrel.barrel.name=Aging Fontina Cheese
+tile.kawaiicrops.briecrate.barrel.name=Aging Brie (Cheese)
+tile.kawaiicrops.bluecrate.barrel.name=Aging Blue Cheese
+tile.kawaiicrops.swisscrate.barrel.name=Aging Swiss Cheese
+tile.kawaiicrops.jackcrate.barrel.name=Aging Jack Cheese
+tile.kawaiicrops.cheddarcrate.barrel.name=Aging Cheddar Cheese
+tile.kawaiicrops.farmerscrate.barrel.name=Aging Farmer's Cheese
 
 
 
