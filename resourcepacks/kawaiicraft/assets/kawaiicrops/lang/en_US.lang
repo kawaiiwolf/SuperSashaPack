@@ -152,6 +152,7 @@ item.kawaiicrops.creamycurds.name=Creamy Milk Curds
 item.kawaiicrops.cheddaredmilkcurds.name=Cheddared Milk Curds
 item.kawaiicrops.wheycurds.name=Whey Curds
 item.kawaiicrops.skimcurds.name=Skim Milk Curds
+item.kawaiicrops.ricotta.name=Ricotta Cheese
 
 tile.kawaiicrops.yeastcrate.barrel.name=Probiotic Bacteria Culture
 tile.kawaiicrops.yeaststartercrate.barrel.name=Probiotic Bacteria Starter Culture
@@ -168,7 +169,29 @@ tile.kawaiicrops.jackcrate.barrel.name=Aging Jack Cheese
 tile.kawaiicrops.cheddarcrate.barrel.name=Aging Cheddar Cheese
 tile.kawaiicrops.farmerscrate.barrel.name=Aging Farmer's Cheese
 
+item.kawaiicrops.goudacheese.cake.name=Block of Gouda Cheese
+item.kawaiicrops.provolonecheese.cake.name=Block of Provolone Cheese
+item.kawaiicrops.mozerellacheese.cake.name=Block of Mozerella Cheese
+item.kawaiicrops.colbycheese.cake.name=Block of Colby Cheese
+item.kawaiicrops.parmeseancheese.cake.name=Block of Parmesean Cheese
+item.kawaiicrops.fontinacheese.cake.name=Block of Fontina Cheese
+item.kawaiicrops.briecheese.cake.name=Block of Brie (Cheese)
+item.kawaiicrops.bluecheese.cake.name=Block of Blue Cheese
+item.kawaiicrops.swisscheese.cake.name=Block of Swiss Cheese
+item.kawaiicrops.jackcheese.cake.name=Block of Jack Cheese
+item.kawaiicrops.cheddarcheese.cake.name=Block of Cheddar Cheese
+item.kawaiicrops.farmerscheese.cake.name=Block of Farmer's Cheese
 
-
-
+item.kawaiicrops.goudacheesewedge.name=Wedge of  Gouda Cheese
+item.kawaiicrops.provolonecheesewedge.name=Wedge of  Provolone Cheese
+item.kawaiicrops.mozerellacheesewedge.name=Wedge of  Mozerella Cheese
+item.kawaiicrops.colbycheesewedge.name=Wedge of  Colby Cheese
+item.kawaiicrops.parmeseancheesewedge.name=Wedge of  Parmesean Cheese
+item.kawaiicrops.fontinacheesewedge.name=Wedge of  Fontina Cheese
+item.kawaiicrops.briecheesewedge.name=Wedge of  Brie (Cheese)
+item.kawaiicrops.bluecheesewedge.name=Wedge of  Blue Cheese
+item.kawaiicrops.swisscheesewedge.name=Wedge of  Swiss Cheese
+item.kawaiicrops.jackcheesewedge.name=Wedge of  Jack Cheese
+item.kawaiicrops.cheddarcheesewedge.name=Wedge of  Cheddar Cheese
+item.kawaiicrops.farmerscheesewedge.name=Wedge of  Farmer's Cheese
 
