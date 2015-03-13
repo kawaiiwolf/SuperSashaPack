@@ -141,6 +141,7 @@ item.kawaiicrops.brinebucket.name=Bucket of Brine
 item.kawaiicrops.cheesecloth.name=Cheese Cloth
 item.kawaiicrops.bacteria.name=Probiotic Bacteria Culture
 item.kawaiicrops.sourcurds.name=Sour Milk Curds
+item.kawaiicrops.sourwashedcurds.name=Sour Washed Milk Curds
 item.kawaiicrops.milkcurds.name=Milk Curds
 item.kawaiicrops.culturedcurds.name=Cultured Milk Curds
 item.kawaiicrops.culturedsourcurds.name=Sour Cultured Milk Curds
@@ -194,4 +195,17 @@ item.kawaiicrops.swisscheesewedge.name=Wedge of  Swiss Cheese
 item.kawaiicrops.jackcheesewedge.name=Wedge of  Jack Cheese
 item.kawaiicrops.cheddarcheesewedge.name=Wedge of  Cheddar Cheese
 item.kawaiicrops.farmerscheesewedge.name=Wedge of  Farmer's Cheese
+
+item.kawaiicrops.buttercreambucket.name=Bucket of Buttermilk
+item.kawaiicrops.churnedcreambucket.name=Bucket of Churned Cream
+item.kawaiicrops.butter.name=Butter
+item.kawaiicrops.gelatin.name=Cube of Gelatin
+item.kawaiicrops.mixingbowl.name=Large Mixing Bowl
+item.kawaiicrops.mixingbowlunfired.name=Unfired Porcelain Mixing Bowl
+item.kawaiicrops.yogurt.name=Bowl of Yogurt
+item.kawaiicrops.whippedcream.name=Bowl of Whipped Cream
+item.kawaiicrops.whisk.name=Wire Whisk
+item.kawaiicrops.cremefraiche.name=Bowl of Creme Fraiche
+item.kawaiicrops.americancheese.name=Slice of American Cheese
+item.kawaiicrops.shreddedcheese.name=Shredded Cheese
 
