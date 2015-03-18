@@ -209,3 +209,75 @@ item.kawaiicrops.cremefraiche.name=Bowl of Creme Fraiche
 item.kawaiicrops.americancheese.name=Slice of American Cheese
 item.kawaiicrops.shreddedcheese.name=Shredded Cheese
 
+tile.kawaiicrops.apple.name=Apple Tree
+item.kawaiicrops.apple.sapling.name=Apple Tree Sapling/Seed
+item.kawaiicrops.apple.fruit.name=Apple
+
+tile.kawaiicrops.banana.name=Banana Tree
+item.kawaiicrops.banana.sapling.name=Banana Tree Sapling/Seed
+item.kawaiicrops.banana.fruit.name=Banana
+
+tile.kawaiicrops.blueberry.name=Blueberry Tree
+item.kawaiicrops.blueberry.sapling.name=Blueberry Tree Sapling/Seed
+item.kawaiicrops.blueberry.fruit.name=Blueberry
+
+tile.kawaiicrops.cherry.name=Cherry Tree
+item.kawaiicrops.cherry.sapling.name=Cherry Tree Sapling/Seed
+item.kawaiicrops.cherry.fruit.name=Cherry
+
+tile.kawaiicrops.cinnamon.name=Cinnamon Tree
+item.kawaiicrops.cinnamon.sapling.name=Cinnamon Tree Sapling/Seed
+item.kawaiicrops.cinnamon.fruit.name=Cinnamon
+
+tile.kawaiicrops.grapefruit.name=Grapefruit Tree
+item.kawaiicrops.grapefruit.sapling.name=Grapefruit Tree Sapling/Seed
+item.kawaiicrops.grapefruit.fruit.name=Grapefruit
+
+tile.kawaiicrops.lemon.name=Lemon Tree
+item.kawaiicrops.lemon.sapling.name=Lemon Tree Sapling/Seed
+item.kawaiicrops.lemon.fruit.name=Lemon
+
+tile.kawaiicrops.lime.name=Lime Tree
+item.kawaiicrops.lime.sapling.name=Lime Tree Sapling/Seed
+item.kawaiicrops.lime.fruit.name=Lime
+
+tile.kawaiicrops.maple.name=Maple Tree
+item.kawaiicrops.maple.sapling.name=Maple Tree Sapling/Seed
+item.kawaiicrops.maple.fruit.name=Maple
+
+tile.kawaiicrops.olive.name=Olive Tree
+item.kawaiicrops.olive.sapling.name=Olive Tree Sapling/Seed
+item.kawaiicrops.olive.fruit.name=Olive
+
+tile.kawaiicrops.orange.name=Orange Tree
+item.kawaiicrops.orange.sapling.name=Orange Tree Sapling/Seed
+item.kawaiicrops.orange.fruit.name=Orange
+
+tile.kawaiicrops.peach.name=Peach Tree
+item.kawaiicrops.peach.sapling.name=Peach Tree Sapling/Seed
+item.kawaiicrops.peach.fruit.name=Peach
+
+tile.kawaiicrops.pear.name=Pear Tree
+item.kawaiicrops.pear.sapling.name=Pear Tree Sapling/Seed
+item.kawaiicrops.pear.fruit.name=Pear
+
+tile.kawaiicrops.peppercorn.name=Peppercorn Tree
+item.kawaiicrops.peppercorn.sapling.name=Peppercorn Tree Sapling/Seed
+item.kawaiicrops.peppercorn.fruit.name=Peppercorn
+
+tile.kawaiicrops.plum.name=Plum Tree
+item.kawaiicrops.plum.sapling.name=Plum Tree Sapling/Seed
+item.kawaiicrops.plum.fruit.name=Plum
+
+tile.kawaiicrops.pomagranete.name=Pomagranete Tree
+item.kawaiicrops.pomagranete.sapling.name=Pomagranete Tree Sapling/Seed
+item.kawaiicrops.pomagranete.fruit.name=Pomagranete
+
+tile.kawaiicrops.raspberry.name=Raspberry Tree
+item.kawaiicrops.raspberry.sapling.name=Raspberry Tree Sapling/Seed
+item.kawaiicrops.raspberry.fruit.name=Raspberry
+
+tile.kawaiicrops.vanilla.name=Vanilla Tree
+item.kawaiicrops.vanilla.sapling.name=Vanilla Tree Sapling/Seed
+item.kawaiicrops.vanilla.fruit.name=Vanilla
+
